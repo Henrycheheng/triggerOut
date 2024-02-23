@@ -1,0 +1,194 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "bc24eeed-3c27-4377-b117-c00174150344",
+  "files": [],
+  "subMetas": {
+    "4c702": {
+      "importer": "gltf-mesh",
+      "uuid": "bc24eeed-3c27-4377-b117-c00174150344@4c702",
+      "displayName": "",
+      "id": "4c702",
+      "name": "flagTankco.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8c4ec": {
+      "importer": "gltf-mesh",
+      "uuid": "bc24eeed-3c27-4377-b117-c00174150344@8c4ec",
+      "displayName": "",
+      "id": "8c4ec",
+      "name": "Group_Material0.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c5bad": {
+      "importer": "gltf-embeded-image",
+      "uuid": "bc24eeed-3c27-4377-b117-c00174150344@c5bad",
+      "displayName": "",
+      "id": "c5bad",
+      "name": "tankco.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "26ff8": {
+      "importer": "texture",
+      "uuid": "bc24eeed-3c27-4377-b117-c00174150344@26ff8",
+      "displayName": "",
+      "id": "26ff8",
+      "name": "tankco.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "bc24eeed-3c27-4377-b117-c00174150344@c5bad"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7bfd2": {
+      "importer": "gltf-material",
+      "uuid": "bc24eeed-3c27-4377-b117-c00174150344@7bfd2",
+      "displayName": "",
+      "id": "7bfd2",
+      "name": "tankco.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0ee4f": {
+      "importer": "gltf-material",
+      "uuid": "bc24eeed-3c27-4377-b117-c00174150344@0ee4f",
+      "displayName": "",
+      "id": "0ee4f",
+      "name": "_defaultMat.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63d5": {
+      "importer": "gltf-material",
+      "uuid": "bc24eeed-3c27-4377-b117-c00174150344@d63d5",
+      "displayName": "",
+      "id": "d63d5",
+      "name": "grey.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "35ea4": {
+      "importer": "gltf-material",
+      "uuid": "bc24eeed-3c27-4377-b117-c00174150344@35ea4",
+      "displayName": "",
+      "id": "35ea4",
+      "name": "road.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f2ce7": {
+      "importer": "gltf-scene",
+      "uuid": "bc24eeed-3c27-4377-b117-c00174150344@f2ce7",
+      "displayName": "",
+      "id": "f2ce7",
+      "name": "flagTankco.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "tankco",
+        "uri": "bc24eeed-3c27-4377-b117-c00174150344@c5bad"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "bc24eeed-3c27-4377-b117-c00174150344@f2ce7",
+    "assetFinder": {
+      "meshes": [
+        "bc24eeed-3c27-4377-b117-c00174150344@4c702",
+        "bc24eeed-3c27-4377-b117-c00174150344@8c4ec"
+      ],
+      "skeletons": [],
+      "textures": [
+        "bc24eeed-3c27-4377-b117-c00174150344@26ff8"
+      ],
+      "materials": [
+        "bc24eeed-3c27-4377-b117-c00174150344@7bfd2",
+        "bc24eeed-3c27-4377-b117-c00174150344@0ee4f",
+        "bc24eeed-3c27-4377-b117-c00174150344@d63d5",
+        "bc24eeed-3c27-4377-b117-c00174150344@35ea4"
+      ],
+      "scenes": [
+        "bc24eeed-3c27-4377-b117-c00174150344@f2ce7"
+      ]
+    }
+  }
+}

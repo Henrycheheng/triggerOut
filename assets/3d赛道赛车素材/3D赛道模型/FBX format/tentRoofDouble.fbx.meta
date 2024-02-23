@@ -1,0 +1,95 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "82da247e-b229-4118-940d-e885814d1783",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "82da247e-b229-4118-940d-e885814d1783@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e3d06": {
+      "importer": "gltf-mesh",
+      "uuid": "82da247e-b229-4118-940d-e885814d1783@e3d06",
+      "displayName": "",
+      "id": "e3d06",
+      "name": "tentRoofDouble_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63d5": {
+      "importer": "gltf-material",
+      "uuid": "82da247e-b229-4118-940d-e885814d1783@d63d5",
+      "displayName": "",
+      "id": "d63d5",
+      "name": "grey.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b2b48": {
+      "importer": "gltf-scene",
+      "uuid": "82da247e-b229-4118-940d-e885814d1783@b2b48",
+      "displayName": "",
+      "id": "b2b48",
+      "name": "tentRoofDouble.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "82da247e-b229-4118-940d-e885814d1783@b2b48",
+    "assetFinder": {
+      "meshes": [
+        "82da247e-b229-4118-940d-e885814d1783@e3d06"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "82da247e-b229-4118-940d-e885814d1783@53398",
+        "82da247e-b229-4118-940d-e885814d1783@d63d5"
+      ],
+      "scenes": [
+        "82da247e-b229-4118-940d-e885814d1783@b2b48"
+      ]
+    }
+  }
+}

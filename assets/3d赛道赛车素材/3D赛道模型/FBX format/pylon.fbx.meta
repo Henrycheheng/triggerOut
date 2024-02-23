@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "4124dfc3-0d9d-42be-94f5-2a31d5029bdd",
+  "files": [],
+  "subMetas": {
+    "c447c": {
+      "importer": "gltf-mesh",
+      "uuid": "4124dfc3-0d9d-42be-94f5-2a31d5029bdd@c447c",
+      "displayName": "",
+      "id": "c447c",
+      "name": "pylon.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1ed61": {
+      "importer": "gltf-material",
+      "uuid": "4124dfc3-0d9d-42be-94f5-2a31d5029bdd@1ed61",
+      "displayName": "",
+      "id": "1ed61",
+      "name": "pylon.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "91a15": {
+      "importer": "gltf-scene",
+      "uuid": "4124dfc3-0d9d-42be-94f5-2a31d5029bdd@91a15",
+      "displayName": "",
+      "id": "91a15",
+      "name": "pylon.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "4124dfc3-0d9d-42be-94f5-2a31d5029bdd@91a15",
+    "assetFinder": {
+      "meshes": [
+        "4124dfc3-0d9d-42be-94f5-2a31d5029bdd@c447c"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "4124dfc3-0d9d-42be-94f5-2a31d5029bdd@1ed61"
+      ],
+      "scenes": [
+        "4124dfc3-0d9d-42be-94f5-2a31d5029bdd@91a15"
+      ]
+    }
+  }
+}

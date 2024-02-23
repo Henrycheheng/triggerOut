@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "49176d85-cee7-4582-bb69-8c2af6b566ec",
+  "files": [],
+  "subMetas": {
+    "111ab": {
+      "importer": "gltf-mesh",
+      "uuid": "49176d85-cee7-4582-bb69-8c2af6b566ec@111ab",
+      "displayName": "",
+      "id": "111ab",
+      "name": "Cube.719.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1f97b": {
+      "importer": "gltf-material",
+      "uuid": "49176d85-cee7-4582-bb69-8c2af6b566ec@1f97b",
+      "displayName": "",
+      "id": "1f97b",
+      "name": "Brown.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "444f5": {
+      "importer": "gltf-scene",
+      "uuid": "49176d85-cee7-4582-bb69-8c2af6b566ec@444f5",
+      "displayName": "",
+      "id": "444f5",
+      "name": "square_rock.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "49176d85-cee7-4582-bb69-8c2af6b566ec@444f5",
+    "assetFinder": {
+      "meshes": [
+        "49176d85-cee7-4582-bb69-8c2af6b566ec@111ab"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "49176d85-cee7-4582-bb69-8c2af6b566ec@1f97b"
+      ],
+      "scenes": [
+        "49176d85-cee7-4582-bb69-8c2af6b566ec@444f5"
+      ]
+    }
+  }
+}

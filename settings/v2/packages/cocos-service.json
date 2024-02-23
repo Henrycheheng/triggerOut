@@ -1,0 +1,141 @@
+{
+  "__version__": "3.0.7",
+  "game": {
+    "app_id": "617917578",
+    "c_id": "0",
+    "name": "demo"
+  },
+  "appConfigMaps": [
+    {
+      "app_id": "UNKNOW",
+      "config_id": "b85533"
+    },
+    {
+      "app_id": "617917578",
+      "config_id": "218b84"
+    }
+  ],
+  "configs": [
+    {
+      "app_id": "UNKNOW",
+      "config_id": "b85533",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": [
+        {
+          "service_id": "301",
+          "enable": false,
+          "param": {}
+        }
+      ]
+    },
+    {
+      "app_id": "617917578",
+      "config_id": "218b84",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": [
+        {
+          "service_id": "301",
+          "enable": true,
+          "param": {}
+        },
+        {
+          "service_id": "278",
+          "enable": true,
+          "param": {
+            "configId": "ade12a",
+            "plugin_version": "2.0.7_0.2.0"
+          }
+        },
+        {
+          "service_id": "302",
+          "enable": true,
+          "param": {}
+        },
+        {
+          "service_id": "352",
+          "enable": true,
+          "param": {}
+        },
+        {
+          "service_id": "316",
+          "enable": true,
+          "param": {}
+        },
+        {
+          "service_id": "350",
+          "enable": true,
+          "param": {}
+        },
+        {
+          "service_id": "353",
+          "enable": true,
+          "param": {}
+        },
+        {
+          "service_id": "354",
+          "enable": true,
+          "param": {}
+        },
+        {
+          "service_id": "355",
+          "enable": true,
+          "param": {}
+        },
+        {
+          "service_id": "303",
+          "enable": true,
+          "param": {}
+        },
+        {
+          "service_id": "308",
+          "enable": false,
+          "param": {}
+        },
+        {
+          "service_id": "312",
+          "enable": true,
+          "param": {}
+        },
+        {
+          "service_id": "356",
+          "enable": true,
+          "param": {}
+        },
+        {
+          "service_id": "357",
+          "enable": true,
+          "param": {}
+        }
+      ]
+    }
+  ],
+  "sdkHubConfigSet": [
+    {
+      "id": "ade12a",
+      "name": "HUAWEI  AppGallery Connect",
+      "platform": "3",
+      "channelID": "161221",
+      "channelName": "HUAWEI  AppGallery Connect",
+      "remarks": "HUAWEI  AppGallery Connect",
+      "plugins": [
+        {
+          "hasParam": false,
+          "pParam": {},
+          "pId": "2412",
+          "pName": "HUAWEI HMS",
+          "packageName": "huawei-hms",
+          "pType": 30,
+          "pUseType": 30,
+          "hasLocal": true,
+          "hasUpdate": false,
+          "requireParam": true,
+          "pVersion": "2.1.2_6.3.0",
+          "isInstall": false,
+          "installProgress": true
+        }
+      ]
+    }
+  ]
+}

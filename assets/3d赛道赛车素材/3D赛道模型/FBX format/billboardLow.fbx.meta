@@ -1,0 +1,176 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "7576e657-cba8-484e-82d4-73b62630077a",
+  "files": [],
+  "subMetas": {
+    "4d247": {
+      "importer": "gltf-mesh",
+      "uuid": "7576e657-cba8-484e-82d4-73b62630077a@4d247",
+      "displayName": "",
+      "id": "4d247",
+      "name": "billboardLow_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c5bad": {
+      "importer": "gltf-embeded-image",
+      "uuid": "7576e657-cba8-484e-82d4-73b62630077a@c5bad",
+      "displayName": "",
+      "id": "c5bad",
+      "name": "tankco.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "26ff8": {
+      "importer": "texture",
+      "uuid": "7576e657-cba8-484e-82d4-73b62630077a@26ff8",
+      "displayName": "",
+      "id": "26ff8",
+      "name": "tankco.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "7576e657-cba8-484e-82d4-73b62630077a@c5bad"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dc328": {
+      "importer": "gltf-material",
+      "uuid": "7576e657-cba8-484e-82d4-73b62630077a@dc328",
+      "displayName": "",
+      "id": "dc328",
+      "name": "bark.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "35ea4": {
+      "importer": "gltf-material",
+      "uuid": "7576e657-cba8-484e-82d4-73b62630077a@35ea4",
+      "displayName": "",
+      "id": "35ea4",
+      "name": "road.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7bfd2": {
+      "importer": "gltf-material",
+      "uuid": "7576e657-cba8-484e-82d4-73b62630077a@7bfd2",
+      "displayName": "",
+      "id": "7bfd2",
+      "name": "tankco.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63d5": {
+      "importer": "gltf-material",
+      "uuid": "7576e657-cba8-484e-82d4-73b62630077a@d63d5",
+      "displayName": "",
+      "id": "d63d5",
+      "name": "grey.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "71dc2": {
+      "importer": "gltf-scene",
+      "uuid": "7576e657-cba8-484e-82d4-73b62630077a@71dc2",
+      "displayName": "",
+      "id": "71dc2",
+      "name": "billboardLow.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "tankco",
+        "uri": "7576e657-cba8-484e-82d4-73b62630077a@c5bad"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "7576e657-cba8-484e-82d4-73b62630077a@71dc2",
+    "assetFinder": {
+      "meshes": [
+        "7576e657-cba8-484e-82d4-73b62630077a@4d247"
+      ],
+      "skeletons": [],
+      "textures": [
+        "7576e657-cba8-484e-82d4-73b62630077a@26ff8"
+      ],
+      "materials": [
+        "7576e657-cba8-484e-82d4-73b62630077a@dc328",
+        "7576e657-cba8-484e-82d4-73b62630077a@35ea4",
+        "7576e657-cba8-484e-82d4-73b62630077a@7bfd2",
+        "7576e657-cba8-484e-82d4-73b62630077a@d63d5"
+      ],
+      "scenes": [
+        "7576e657-cba8-484e-82d4-73b62630077a@71dc2"
+      ]
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8a6b8d00-3b6f-425f-a44b-51567c1e218a",
+  "files": [],
+  "subMetas": {
+    "17464": {
+      "importer": "gltf-material",
+      "uuid": "8a6b8d00-3b6f-425f-a44b-51567c1e218a@17464",
+      "displayName": "",
+      "id": "17464",
+      "name": "Stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1db57": {
+      "importer": "gltf-mesh",
+      "uuid": "8a6b8d00-3b6f-425f-a44b-51567c1e218a@1db57",
+      "displayName": "",
+      "id": "1db57",
+      "name": "detail_rocks_small_Material2.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "111ab": {
+      "importer": "gltf-scene",
+      "uuid": "8a6b8d00-3b6f-425f-a44b-51567c1e218a@111ab",
+      "displayName": "",
+      "id": "111ab",
+      "name": "detail_rocks_small.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "8a6b8d00-3b6f-425f-a44b-51567c1e218a@111ab",
+    "assetFinder": {
+      "meshes": [
+        "8a6b8d00-3b6f-425f-a44b-51567c1e218a@1db57"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "8a6b8d00-3b6f-425f-a44b-51567c1e218a@17464"
+      ],
+      "scenes": [
+        "8a6b8d00-3b6f-425f-a44b-51567c1e218a@111ab"
+      ]
+    }
+  }
+}

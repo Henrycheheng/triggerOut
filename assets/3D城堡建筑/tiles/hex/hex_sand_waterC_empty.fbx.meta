@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "153621f9-ab90-4a46-9f87-b0e4ee6f8ce5",
+  "files": [],
+  "subMetas": {
+    "6ad3e": {
+      "importer": "gltf-mesh",
+      "uuid": "153621f9-ab90-4a46-9f87-b0e4ee6f8ce5@6ad3e",
+      "displayName": "",
+      "id": "6ad3e",
+      "name": "Cylinder.883.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "00773": {
+      "importer": "gltf-material",
+      "uuid": "153621f9-ab90-4a46-9f87-b0e4ee6f8ce5@00773",
+      "displayName": "",
+      "id": "00773",
+      "name": "Beige.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d399c": {
+      "importer": "gltf-scene",
+      "uuid": "153621f9-ab90-4a46-9f87-b0e4ee6f8ce5@d399c",
+      "displayName": "",
+      "id": "d399c",
+      "name": "hex_sand_waterC_empty.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "153621f9-ab90-4a46-9f87-b0e4ee6f8ce5@d399c",
+    "assetFinder": {
+      "meshes": [
+        "153621f9-ab90-4a46-9f87-b0e4ee6f8ce5@6ad3e"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "153621f9-ab90-4a46-9f87-b0e4ee6f8ce5@00773"
+      ],
+      "scenes": [
+        "153621f9-ab90-4a46-9f87-b0e4ee6f8ce5@d399c"
+      ]
+    }
+  }
+}

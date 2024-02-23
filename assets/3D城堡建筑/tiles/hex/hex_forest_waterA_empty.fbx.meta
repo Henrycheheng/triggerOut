@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ea445267-a058-4553-9982-8aec3ea3af93",
+  "files": [],
+  "subMetas": {
+    "85e49": {
+      "importer": "gltf-mesh",
+      "uuid": "ea445267-a058-4553-9982-8aec3ea3af93@85e49",
+      "displayName": "",
+      "id": "85e49",
+      "name": "Cylinder.036.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9f269": {
+      "importer": "gltf-material",
+      "uuid": "ea445267-a058-4553-9982-8aec3ea3af93@9f269",
+      "displayName": "",
+      "id": "9f269",
+      "name": "Green.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ad200": {
+      "importer": "gltf-scene",
+      "uuid": "ea445267-a058-4553-9982-8aec3ea3af93@ad200",
+      "displayName": "",
+      "id": "ad200",
+      "name": "hex_forest_waterA_empty.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "ea445267-a058-4553-9982-8aec3ea3af93@ad200",
+    "assetFinder": {
+      "meshes": [
+        "ea445267-a058-4553-9982-8aec3ea3af93@85e49"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "ea445267-a058-4553-9982-8aec3ea3af93@9f269"
+      ],
+      "scenes": [
+        "ea445267-a058-4553-9982-8aec3ea3af93@ad200"
+      ]
+    }
+  }
+}

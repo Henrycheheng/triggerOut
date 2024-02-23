@@ -1,0 +1,95 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "15281c14-6bd3-4be5-8a13-e39c708c364e",
+  "files": [],
+  "subMetas": {
+    "dfca8": {
+      "importer": "gltf-mesh",
+      "uuid": "15281c14-6bd3-4be5-8a13-e39c708c364e@dfca8",
+      "displayName": "",
+      "id": "dfca8",
+      "name": "square_forest_waterStraight_empty_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9f269": {
+      "importer": "gltf-material",
+      "uuid": "15281c14-6bd3-4be5-8a13-e39c708c364e@9f269",
+      "displayName": "",
+      "id": "9f269",
+      "name": "Green.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3fdbc": {
+      "importer": "gltf-material",
+      "uuid": "15281c14-6bd3-4be5-8a13-e39c708c364e@3fdbc",
+      "displayName": "",
+      "id": "3fdbc",
+      "name": "BrownDark.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "06466": {
+      "importer": "gltf-scene",
+      "uuid": "15281c14-6bd3-4be5-8a13-e39c708c364e@06466",
+      "displayName": "",
+      "id": "06466",
+      "name": "square_forest_waterStraight_empty.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "15281c14-6bd3-4be5-8a13-e39c708c364e@06466",
+    "assetFinder": {
+      "meshes": [
+        "15281c14-6bd3-4be5-8a13-e39c708c364e@dfca8"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "15281c14-6bd3-4be5-8a13-e39c708c364e@9f269",
+        "15281c14-6bd3-4be5-8a13-e39c708c364e@3fdbc"
+      ],
+      "scenes": [
+        "15281c14-6bd3-4be5-8a13-e39c708c364e@06466"
+      ]
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "5ce3d72f-35cf-416e-8383-6b767efa833b",
+  "files": [],
+  "subMetas": {
+    "17464": {
+      "importer": "gltf-material",
+      "uuid": "5ce3d72f-35cf-416e-8383-6b767efa833b@17464",
+      "displayName": "",
+      "id": "17464",
+      "name": "Stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "32871": {
+      "importer": "gltf-scene",
+      "uuid": "5ce3d72f-35cf-416e-8383-6b767efa833b@32871",
+      "displayName": "",
+      "id": "32871",
+      "name": "wall_gate_closed.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c6103": {
+      "importer": "gltf-mesh",
+      "uuid": "5ce3d72f-35cf-416e-8383-6b767efa833b@c6103",
+      "displayName": "",
+      "id": "c6103",
+      "name": "wall_gate_closed_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9e51f": {
+      "importer": "gltf-material",
+      "uuid": "5ce3d72f-35cf-416e-8383-6b767efa833b@9e51f",
+      "displayName": "",
+      "id": "9e51f",
+      "name": "StoneDark.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3fdbc": {
+      "importer": "gltf-material",
+      "uuid": "5ce3d72f-35cf-416e-8383-6b767efa833b@3fdbc",
+      "displayName": "",
+      "id": "3fdbc",
+      "name": "BrownDark.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "5ce3d72f-35cf-416e-8383-6b767efa833b@32871",
+    "assetFinder": {
+      "meshes": [
+        "5ce3d72f-35cf-416e-8383-6b767efa833b@c6103"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "5ce3d72f-35cf-416e-8383-6b767efa833b@17464",
+        "5ce3d72f-35cf-416e-8383-6b767efa833b@9e51f",
+        "5ce3d72f-35cf-416e-8383-6b767efa833b@3fdbc"
+      ],
+      "scenes": [
+        "5ce3d72f-35cf-416e-8383-6b767efa833b@32871"
+      ]
+    }
+  }
+}

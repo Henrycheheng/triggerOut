@@ -1,0 +1,95 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "27914ea0-f132-4df6-bc98-d72346945046",
+  "files": [],
+  "subMetas": {
+    "e7dbf": {
+      "importer": "gltf-mesh",
+      "uuid": "27914ea0-f132-4df6-bc98-d72346945046@e7dbf",
+      "displayName": "",
+      "id": "e7dbf",
+      "name": "hex_forest_waterB_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9f269": {
+      "importer": "gltf-material",
+      "uuid": "27914ea0-f132-4df6-bc98-d72346945046@9f269",
+      "displayName": "",
+      "id": "9f269",
+      "name": "Green.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dfbe1": {
+      "importer": "gltf-material",
+      "uuid": "27914ea0-f132-4df6-bc98-d72346945046@dfbe1",
+      "displayName": "",
+      "id": "dfbe1",
+      "name": "Water.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c33ec": {
+      "importer": "gltf-scene",
+      "uuid": "27914ea0-f132-4df6-bc98-d72346945046@c33ec",
+      "displayName": "",
+      "id": "c33ec",
+      "name": "hex_forest_waterB.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "27914ea0-f132-4df6-bc98-d72346945046@c33ec",
+    "assetFinder": {
+      "meshes": [
+        "27914ea0-f132-4df6-bc98-d72346945046@e7dbf"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "27914ea0-f132-4df6-bc98-d72346945046@9f269",
+        "27914ea0-f132-4df6-bc98-d72346945046@dfbe1"
+      ],
+      "scenes": [
+        "27914ea0-f132-4df6-bc98-d72346945046@c33ec"
+      ]
+    }
+  }
+}

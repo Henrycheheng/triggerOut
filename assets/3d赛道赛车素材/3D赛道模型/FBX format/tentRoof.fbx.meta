@@ -1,0 +1,95 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d242a9e9-40bc-40b4-af27-976392924fe0",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "d242a9e9-40bc-40b4-af27-976392924fe0@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "df11c": {
+      "importer": "gltf-mesh",
+      "uuid": "d242a9e9-40bc-40b4-af27-976392924fe0@df11c",
+      "displayName": "",
+      "id": "df11c",
+      "name": "tentRoof_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63d5": {
+      "importer": "gltf-material",
+      "uuid": "d242a9e9-40bc-40b4-af27-976392924fe0@d63d5",
+      "displayName": "",
+      "id": "d63d5",
+      "name": "grey.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "edaa8": {
+      "importer": "gltf-scene",
+      "uuid": "d242a9e9-40bc-40b4-af27-976392924fe0@edaa8",
+      "displayName": "",
+      "id": "edaa8",
+      "name": "tentRoof.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "d242a9e9-40bc-40b4-af27-976392924fe0@edaa8",
+    "assetFinder": {
+      "meshes": [
+        "d242a9e9-40bc-40b4-af27-976392924fe0@df11c"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "d242a9e9-40bc-40b4-af27-976392924fe0@d63d5",
+        "d242a9e9-40bc-40b4-af27-976392924fe0@53398"
+      ],
+      "scenes": [
+        "d242a9e9-40bc-40b4-af27-976392924fe0@edaa8"
+      ]
+    }
+  }
+}

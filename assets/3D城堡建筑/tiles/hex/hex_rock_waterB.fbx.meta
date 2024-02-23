@@ -1,0 +1,95 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "cbd9cb9d-f39c-4693-b1a8-c7ff7e38453d",
+  "files": [],
+  "subMetas": {
+    "8f298": {
+      "importer": "gltf-mesh",
+      "uuid": "cbd9cb9d-f39c-4693-b1a8-c7ff7e38453d@8f298",
+      "displayName": "",
+      "id": "8f298",
+      "name": "hex_rock_waterB_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1f97b": {
+      "importer": "gltf-material",
+      "uuid": "cbd9cb9d-f39c-4693-b1a8-c7ff7e38453d@1f97b",
+      "displayName": "",
+      "id": "1f97b",
+      "name": "Brown.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dfbe1": {
+      "importer": "gltf-material",
+      "uuid": "cbd9cb9d-f39c-4693-b1a8-c7ff7e38453d@dfbe1",
+      "displayName": "",
+      "id": "dfbe1",
+      "name": "Water.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "559fd": {
+      "importer": "gltf-scene",
+      "uuid": "cbd9cb9d-f39c-4693-b1a8-c7ff7e38453d@559fd",
+      "displayName": "",
+      "id": "559fd",
+      "name": "hex_rock_waterB.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "cbd9cb9d-f39c-4693-b1a8-c7ff7e38453d@559fd",
+    "assetFinder": {
+      "meshes": [
+        "cbd9cb9d-f39c-4693-b1a8-c7ff7e38453d@8f298"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "cbd9cb9d-f39c-4693-b1a8-c7ff7e38453d@1f97b",
+        "cbd9cb9d-f39c-4693-b1a8-c7ff7e38453d@dfbe1"
+      ],
+      "scenes": [
+        "cbd9cb9d-f39c-4693-b1a8-c7ff7e38453d@559fd"
+      ]
+    }
+  }
+}

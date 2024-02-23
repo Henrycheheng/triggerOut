@@ -1,0 +1,95 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "540043bb-4d38-4ed0-a290-2279854cc805",
+  "files": [],
+  "subMetas": {
+    "98677": {
+      "importer": "gltf-mesh",
+      "uuid": "540043bb-4d38-4ed0-a290-2279854cc805@98677",
+      "displayName": "",
+      "id": "98677",
+      "name": "ramp_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dc328": {
+      "importer": "gltf-material",
+      "uuid": "540043bb-4d38-4ed0-a290-2279854cc805@dc328",
+      "displayName": "",
+      "id": "dc328",
+      "name": "bark.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63d5": {
+      "importer": "gltf-material",
+      "uuid": "540043bb-4d38-4ed0-a290-2279854cc805@d63d5",
+      "displayName": "",
+      "id": "d63d5",
+      "name": "grey.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4428d": {
+      "importer": "gltf-scene",
+      "uuid": "540043bb-4d38-4ed0-a290-2279854cc805@4428d",
+      "displayName": "",
+      "id": "4428d",
+      "name": "ramp.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "540043bb-4d38-4ed0-a290-2279854cc805@4428d",
+    "assetFinder": {
+      "meshes": [
+        "540043bb-4d38-4ed0-a290-2279854cc805@98677"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "540043bb-4d38-4ed0-a290-2279854cc805@dc328",
+        "540043bb-4d38-4ed0-a290-2279854cc805@d63d5"
+      ],
+      "scenes": [
+        "540043bb-4d38-4ed0-a290-2279854cc805@4428d"
+      ]
+    }
+  }
+}

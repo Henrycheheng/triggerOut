@@ -1,0 +1,95 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "84761068-57d2-4683-92a5-8397f1711c50",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "84761068-57d2-4683-92a5-8397f1711c50@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bad31": {
+      "importer": "gltf-mesh",
+      "uuid": "84761068-57d2-4683-92a5-8397f1711c50@bad31",
+      "displayName": "",
+      "id": "bad31",
+      "name": "tentClosed_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63d5": {
+      "importer": "gltf-material",
+      "uuid": "84761068-57d2-4683-92a5-8397f1711c50@d63d5",
+      "displayName": "",
+      "id": "d63d5",
+      "name": "grey.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cf078": {
+      "importer": "gltf-scene",
+      "uuid": "84761068-57d2-4683-92a5-8397f1711c50@cf078",
+      "displayName": "",
+      "id": "cf078",
+      "name": "tentClosed.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "84761068-57d2-4683-92a5-8397f1711c50@cf078",
+    "assetFinder": {
+      "meshes": [
+        "84761068-57d2-4683-92a5-8397f1711c50@bad31"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "84761068-57d2-4683-92a5-8397f1711c50@53398",
+        "84761068-57d2-4683-92a5-8397f1711c50@d63d5"
+      ],
+      "scenes": [
+        "84761068-57d2-4683-92a5-8397f1711c50@cf078"
+      ]
+    }
+  }
+}

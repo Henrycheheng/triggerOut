@@ -1,0 +1,129 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "34d80aee-7d53-4c35-ae88-6471045a1c48",
+  "files": [],
+  "subMetas": {
+    "17464": {
+      "importer": "gltf-material",
+      "uuid": "34d80aee-7d53-4c35-ae88-6471045a1c48@17464",
+      "displayName": "",
+      "id": "17464",
+      "name": "Stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e40c3": {
+      "importer": "gltf-mesh",
+      "uuid": "34d80aee-7d53-4c35-ae88-6471045a1c48@e40c3",
+      "displayName": "",
+      "id": "e40c3",
+      "name": "watchtower_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3fdbc": {
+      "importer": "gltf-material",
+      "uuid": "34d80aee-7d53-4c35-ae88-6471045a1c48@3fdbc",
+      "displayName": "",
+      "id": "3fdbc",
+      "name": "BrownDark.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9e51f": {
+      "importer": "gltf-material",
+      "uuid": "34d80aee-7d53-4c35-ae88-6471045a1c48@9e51f",
+      "displayName": "",
+      "id": "9e51f",
+      "name": "StoneDark.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "00773": {
+      "importer": "gltf-material",
+      "uuid": "34d80aee-7d53-4c35-ae88-6471045a1c48@00773",
+      "displayName": "",
+      "id": "00773",
+      "name": "Beige.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2edc6": {
+      "importer": "gltf-scene",
+      "uuid": "34d80aee-7d53-4c35-ae88-6471045a1c48@2edc6",
+      "displayName": "",
+      "id": "2edc6",
+      "name": "watchtower.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "34d80aee-7d53-4c35-ae88-6471045a1c48@2edc6",
+    "assetFinder": {
+      "meshes": [
+        "34d80aee-7d53-4c35-ae88-6471045a1c48@e40c3"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "34d80aee-7d53-4c35-ae88-6471045a1c48@17464",
+        "34d80aee-7d53-4c35-ae88-6471045a1c48@3fdbc",
+        "34d80aee-7d53-4c35-ae88-6471045a1c48@9e51f",
+        "34d80aee-7d53-4c35-ae88-6471045a1c48@00773"
+      ],
+      "scenes": [
+        "34d80aee-7d53-4c35-ae88-6471045a1c48@2edc6"
+      ]
+    }
+  }
+}

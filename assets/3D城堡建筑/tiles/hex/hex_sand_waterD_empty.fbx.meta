@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d0812f55-2a77-46e0-86fc-482dedfc8069",
+  "files": [],
+  "subMetas": {
+    "90439": {
+      "importer": "gltf-scene",
+      "uuid": "d0812f55-2a77-46e0-86fc-482dedfc8069@90439",
+      "displayName": "",
+      "id": "90439",
+      "name": "hex_sand_waterD_empty.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "22af0": {
+      "importer": "gltf-mesh",
+      "uuid": "d0812f55-2a77-46e0-86fc-482dedfc8069@22af0",
+      "displayName": "",
+      "id": "22af0",
+      "name": "Cylinder.886.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "00773": {
+      "importer": "gltf-material",
+      "uuid": "d0812f55-2a77-46e0-86fc-482dedfc8069@00773",
+      "displayName": "",
+      "id": "00773",
+      "name": "Beige.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "d0812f55-2a77-46e0-86fc-482dedfc8069@90439",
+    "assetFinder": {
+      "meshes": [
+        "d0812f55-2a77-46e0-86fc-482dedfc8069@22af0"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "d0812f55-2a77-46e0-86fc-482dedfc8069@00773"
+      ],
+      "scenes": [
+        "d0812f55-2a77-46e0-86fc-482dedfc8069@90439"
+      ]
+    }
+  }
+}

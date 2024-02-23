@@ -1,0 +1,95 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "63e120c0-2abe-4ed5-af74-fe7954a4f425",
+  "files": [],
+  "subMetas": {
+    "42328": {
+      "importer": "gltf-scene",
+      "uuid": "63e120c0-2abe-4ed5-af74-fe7954a4f425@42328",
+      "displayName": "",
+      "id": "42328",
+      "name": "hex_forest_roadI.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d48e9": {
+      "importer": "gltf-mesh",
+      "uuid": "63e120c0-2abe-4ed5-af74-fe7954a4f425@d48e9",
+      "displayName": "",
+      "id": "d48e9",
+      "name": "hex_forest_roadI_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9f269": {
+      "importer": "gltf-material",
+      "uuid": "63e120c0-2abe-4ed5-af74-fe7954a4f425@9f269",
+      "displayName": "",
+      "id": "9f269",
+      "name": "Green.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "00773": {
+      "importer": "gltf-material",
+      "uuid": "63e120c0-2abe-4ed5-af74-fe7954a4f425@00773",
+      "displayName": "",
+      "id": "00773",
+      "name": "Beige.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "63e120c0-2abe-4ed5-af74-fe7954a4f425@42328",
+    "assetFinder": {
+      "meshes": [
+        "63e120c0-2abe-4ed5-af74-fe7954a4f425@d48e9"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "63e120c0-2abe-4ed5-af74-fe7954a4f425@9f269",
+        "63e120c0-2abe-4ed5-af74-fe7954a4f425@00773"
+      ],
+      "scenes": [
+        "63e120c0-2abe-4ed5-af74-fe7954a4f425@42328"
+      ]
+    }
+  }
+}

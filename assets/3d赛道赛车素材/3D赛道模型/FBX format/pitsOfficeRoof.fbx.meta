@@ -1,0 +1,129 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "80439b7e-37c7-4874-89a8-ac32067c1506",
+  "files": [],
+  "subMetas": {
+    "6d6d1": {
+      "importer": "gltf-mesh",
+      "uuid": "80439b7e-37c7-4874-89a8-ac32067c1506@6d6d1",
+      "displayName": "",
+      "id": "6d6d1",
+      "name": "pitsOfficeRoof_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63d5": {
+      "importer": "gltf-material",
+      "uuid": "80439b7e-37c7-4874-89a8-ac32067c1506@d63d5",
+      "displayName": "",
+      "id": "d63d5",
+      "name": "grey.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "92dfd": {
+      "importer": "gltf-material",
+      "uuid": "80439b7e-37c7-4874-89a8-ac32067c1506@92dfd",
+      "displayName": "",
+      "id": "92dfd",
+      "name": "red.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "56ce1": {
+      "importer": "gltf-material",
+      "uuid": "80439b7e-37c7-4874-89a8-ac32067c1506@56ce1",
+      "displayName": "",
+      "id": "56ce1",
+      "name": "glass.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0ee4f": {
+      "importer": "gltf-material",
+      "uuid": "80439b7e-37c7-4874-89a8-ac32067c1506@0ee4f",
+      "displayName": "",
+      "id": "0ee4f",
+      "name": "_defaultMat.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ae26a": {
+      "importer": "gltf-scene",
+      "uuid": "80439b7e-37c7-4874-89a8-ac32067c1506@ae26a",
+      "displayName": "",
+      "id": "ae26a",
+      "name": "pitsOfficeRoof.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "80439b7e-37c7-4874-89a8-ac32067c1506@ae26a",
+    "assetFinder": {
+      "meshes": [
+        "80439b7e-37c7-4874-89a8-ac32067c1506@6d6d1"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "80439b7e-37c7-4874-89a8-ac32067c1506@d63d5",
+        "80439b7e-37c7-4874-89a8-ac32067c1506@92dfd",
+        "80439b7e-37c7-4874-89a8-ac32067c1506@56ce1",
+        "80439b7e-37c7-4874-89a8-ac32067c1506@0ee4f"
+      ],
+      "scenes": [
+        "80439b7e-37c7-4874-89a8-ac32067c1506@ae26a"
+      ]
+    }
+  }
+}

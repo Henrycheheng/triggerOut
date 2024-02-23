@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "babdd972-7758-4e9d-a1f7-e58b9b1a9807",
+  "files": [],
+  "subMetas": {
+    "17464": {
+      "importer": "gltf-material",
+      "uuid": "babdd972-7758-4e9d-a1f7-e58b9b1a9807@17464",
+      "displayName": "",
+      "id": "17464",
+      "name": "Stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "89988": {
+      "importer": "gltf-mesh",
+      "uuid": "babdd972-7758-4e9d-a1f7-e58b9b1a9807@89988",
+      "displayName": "",
+      "id": "89988",
+      "name": "Cylinder.936.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4f7eb": {
+      "importer": "gltf-scene",
+      "uuid": "babdd972-7758-4e9d-a1f7-e58b9b1a9807@4f7eb",
+      "displayName": "",
+      "id": "4f7eb",
+      "name": "detail_rocks.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "babdd972-7758-4e9d-a1f7-e58b9b1a9807@4f7eb",
+    "assetFinder": {
+      "meshes": [
+        "babdd972-7758-4e9d-a1f7-e58b9b1a9807@89988"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "babdd972-7758-4e9d-a1f7-e58b9b1a9807@17464"
+      ],
+      "scenes": [
+        "babdd972-7758-4e9d-a1f7-e58b9b1a9807@4f7eb"
+      ]
+    }
+  }
+}

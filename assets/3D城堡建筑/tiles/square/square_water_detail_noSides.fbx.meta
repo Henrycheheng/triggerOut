@@ -1,0 +1,95 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "16071ff4-efee-4d98-80e1-5bb46905f497",
+  "files": [],
+  "subMetas": {
+    "68ec9": {
+      "importer": "gltf-mesh",
+      "uuid": "16071ff4-efee-4d98-80e1-5bb46905f497@68ec9",
+      "displayName": "",
+      "id": "68ec9",
+      "name": "square_water_detail_noSides_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3fdbc": {
+      "importer": "gltf-material",
+      "uuid": "16071ff4-efee-4d98-80e1-5bb46905f497@3fdbc",
+      "displayName": "",
+      "id": "3fdbc",
+      "name": "BrownDark.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dfbe1": {
+      "importer": "gltf-material",
+      "uuid": "16071ff4-efee-4d98-80e1-5bb46905f497@dfbe1",
+      "displayName": "",
+      "id": "dfbe1",
+      "name": "Water.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ed748": {
+      "importer": "gltf-scene",
+      "uuid": "16071ff4-efee-4d98-80e1-5bb46905f497@ed748",
+      "displayName": "",
+      "id": "ed748",
+      "name": "square_water_detail_noSides.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "16071ff4-efee-4d98-80e1-5bb46905f497@ed748",
+    "assetFinder": {
+      "meshes": [
+        "16071ff4-efee-4d98-80e1-5bb46905f497@68ec9"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "16071ff4-efee-4d98-80e1-5bb46905f497@3fdbc",
+        "16071ff4-efee-4d98-80e1-5bb46905f497@dfbe1"
+      ],
+      "scenes": [
+        "16071ff4-efee-4d98-80e1-5bb46905f497@ed748"
+      ]
+    }
+  }
+}

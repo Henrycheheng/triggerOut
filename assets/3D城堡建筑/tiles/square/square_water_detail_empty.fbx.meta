@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8b6c2b78-9862-4184-b8cd-5c30c9262a65",
+  "files": [],
+  "subMetas": {
+    "7f767": {
+      "importer": "gltf-mesh",
+      "uuid": "8b6c2b78-9862-4184-b8cd-5c30c9262a65@7f767",
+      "displayName": "",
+      "id": "7f767",
+      "name": "Cube.784.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3fdbc": {
+      "importer": "gltf-material",
+      "uuid": "8b6c2b78-9862-4184-b8cd-5c30c9262a65@3fdbc",
+      "displayName": "",
+      "id": "3fdbc",
+      "name": "BrownDark.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1b596": {
+      "importer": "gltf-scene",
+      "uuid": "8b6c2b78-9862-4184-b8cd-5c30c9262a65@1b596",
+      "displayName": "",
+      "id": "1b596",
+      "name": "square_water_detail_empty.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "8b6c2b78-9862-4184-b8cd-5c30c9262a65@1b596",
+    "assetFinder": {
+      "meshes": [
+        "8b6c2b78-9862-4184-b8cd-5c30c9262a65@7f767"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "8b6c2b78-9862-4184-b8cd-5c30c9262a65@3fdbc"
+      ],
+      "scenes": [
+        "8b6c2b78-9862-4184-b8cd-5c30c9262a65@1b596"
+      ]
+    }
+  }
+}

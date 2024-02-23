@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "47e03c9f-c8ef-4516-abaf-0834d92e157d",
+  "files": [],
+  "subMetas": {
+    "b97e7": {
+      "importer": "gltf-mesh",
+      "uuid": "47e03c9f-c8ef-4516-abaf-0834d92e157d@b97e7",
+      "displayName": "",
+      "id": "b97e7",
+      "name": "roadCornerLargerSandInner.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5f31f": {
+      "importer": "gltf-material",
+      "uuid": "47e03c9f-c8ef-4516-abaf-0834d92e157d@5f31f",
+      "displayName": "",
+      "id": "5f31f",
+      "name": "sand.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a7cd4": {
+      "importer": "gltf-scene",
+      "uuid": "47e03c9f-c8ef-4516-abaf-0834d92e157d@a7cd4",
+      "displayName": "",
+      "id": "a7cd4",
+      "name": "roadCornerLargerSandInner.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "47e03c9f-c8ef-4516-abaf-0834d92e157d@a7cd4",
+    "assetFinder": {
+      "meshes": [
+        "47e03c9f-c8ef-4516-abaf-0834d92e157d@b97e7"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "47e03c9f-c8ef-4516-abaf-0834d92e157d@5f31f"
+      ],
+      "scenes": [
+        "47e03c9f-c8ef-4516-abaf-0834d92e157d@a7cd4"
+      ]
+    }
+  }
+}

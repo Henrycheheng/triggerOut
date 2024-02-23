@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "77d45985-02c7-479f-b922-56b4ae86bb28",
+  "files": [],
+  "subMetas": {
+    "da910": {
+      "importer": "gltf-mesh",
+      "uuid": "77d45985-02c7-479f-b922-56b4ae86bb28@da910",
+      "displayName": "",
+      "id": "da910",
+      "name": "Cylinder.845.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "00773": {
+      "importer": "gltf-material",
+      "uuid": "77d45985-02c7-479f-b922-56b4ae86bb28@00773",
+      "displayName": "",
+      "id": "00773",
+      "name": "Beige.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "92e53": {
+      "importer": "gltf-scene",
+      "uuid": "77d45985-02c7-479f-b922-56b4ae86bb28@92e53",
+      "displayName": "",
+      "id": "92e53",
+      "name": "hex_sand.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "77d45985-02c7-479f-b922-56b4ae86bb28@92e53",
+    "assetFinder": {
+      "meshes": [
+        "77d45985-02c7-479f-b922-56b4ae86bb28@da910"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "77d45985-02c7-479f-b922-56b4ae86bb28@00773"
+      ],
+      "scenes": [
+        "77d45985-02c7-479f-b922-56b4ae86bb28@92e53"
+      ]
+    }
+  }
+}

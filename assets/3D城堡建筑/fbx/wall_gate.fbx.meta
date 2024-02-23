@@ -1,0 +1,95 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e11c8d4e-7500-4ea1-a40f-f57e56e238df",
+  "files": [],
+  "subMetas": {
+    "17464": {
+      "importer": "gltf-material",
+      "uuid": "e11c8d4e-7500-4ea1-a40f-f57e56e238df@17464",
+      "displayName": "",
+      "id": "17464",
+      "name": "Stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a28b2": {
+      "importer": "gltf-mesh",
+      "uuid": "e11c8d4e-7500-4ea1-a40f-f57e56e238df@a28b2",
+      "displayName": "",
+      "id": "a28b2",
+      "name": "wall_gate_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9e51f": {
+      "importer": "gltf-material",
+      "uuid": "e11c8d4e-7500-4ea1-a40f-f57e56e238df@9e51f",
+      "displayName": "",
+      "id": "9e51f",
+      "name": "StoneDark.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fea5e": {
+      "importer": "gltf-scene",
+      "uuid": "e11c8d4e-7500-4ea1-a40f-f57e56e238df@fea5e",
+      "displayName": "",
+      "id": "fea5e",
+      "name": "wall_gate.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "e11c8d4e-7500-4ea1-a40f-f57e56e238df@fea5e",
+    "assetFinder": {
+      "meshes": [
+        "e11c8d4e-7500-4ea1-a40f-f57e56e238df@a28b2"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "e11c8d4e-7500-4ea1-a40f-f57e56e238df@17464",
+        "e11c8d4e-7500-4ea1-a40f-f57e56e238df@9e51f"
+      ],
+      "scenes": [
+        "e11c8d4e-7500-4ea1-a40f-f57e56e238df@fea5e"
+      ]
+    }
+  }
+}

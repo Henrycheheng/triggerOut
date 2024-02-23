@@ -1,0 +1,147 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9d28a187-ac55-49ff-9080-f3eaf2924ac0",
+  "files": [],
+  "subMetas": {
+    "17464": {
+      "importer": "gltf-material",
+      "uuid": "9d28a187-ac55-49ff-9080-f3eaf2924ac0@17464",
+      "displayName": "",
+      "id": "17464",
+      "name": "Stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "55248": {
+      "importer": "gltf-scene",
+      "uuid": "9d28a187-ac55-49ff-9080-f3eaf2924ac0@55248",
+      "displayName": "",
+      "id": "55248",
+      "name": "watermill.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ce677": {
+      "importer": "gltf-mesh",
+      "uuid": "9d28a187-ac55-49ff-9080-f3eaf2924ac0@ce677",
+      "displayName": "",
+      "id": "ce677",
+      "name": "watermill_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d639": {
+      "importer": "gltf-mesh",
+      "uuid": "9d28a187-ac55-49ff-9080-f3eaf2924ac0@7d639",
+      "displayName": "",
+      "id": "7d639",
+      "name": "Cylinder.778.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "935df": {
+      "importer": "gltf-material",
+      "uuid": "9d28a187-ac55-49ff-9080-f3eaf2924ac0@935df",
+      "displayName": "",
+      "id": "935df",
+      "name": "White.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3fdbc": {
+      "importer": "gltf-material",
+      "uuid": "9d28a187-ac55-49ff-9080-f3eaf2924ac0@3fdbc",
+      "displayName": "",
+      "id": "3fdbc",
+      "name": "BrownDark.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1f97b": {
+      "importer": "gltf-material",
+      "uuid": "9d28a187-ac55-49ff-9080-f3eaf2924ac0@1f97b",
+      "displayName": "",
+      "id": "1f97b",
+      "name": "Brown.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "9d28a187-ac55-49ff-9080-f3eaf2924ac0@55248",
+    "assetFinder": {
+      "meshes": [
+        "9d28a187-ac55-49ff-9080-f3eaf2924ac0@ce677",
+        "9d28a187-ac55-49ff-9080-f3eaf2924ac0@7d639"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "9d28a187-ac55-49ff-9080-f3eaf2924ac0@17464",
+        "9d28a187-ac55-49ff-9080-f3eaf2924ac0@935df",
+        "9d28a187-ac55-49ff-9080-f3eaf2924ac0@3fdbc",
+        "9d28a187-ac55-49ff-9080-f3eaf2924ac0@1f97b"
+      ],
+      "scenes": [
+        "9d28a187-ac55-49ff-9080-f3eaf2924ac0@55248"
+      ]
+    }
+  }
+}

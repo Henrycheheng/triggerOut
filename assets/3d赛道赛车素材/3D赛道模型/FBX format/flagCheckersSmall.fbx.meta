@@ -1,0 +1,176 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "08ba9542-f4dd-4faa-ac3a-4d1ffaae8341",
+  "files": [],
+  "subMetas": {
+    "d130d": {
+      "importer": "gltf-mesh",
+      "uuid": "08ba9542-f4dd-4faa-ac3a-4d1ffaae8341@d130d",
+      "displayName": "",
+      "id": "d130d",
+      "name": "flagCheckersSmall_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5ef28": {
+      "importer": "gltf-embeded-image",
+      "uuid": "08ba9542-f4dd-4faa-ac3a-4d1ffaae8341@5ef28",
+      "displayName": "",
+      "id": "5ef28",
+      "name": "checkers.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "b9de7": {
+      "importer": "texture",
+      "uuid": "08ba9542-f4dd-4faa-ac3a-4d1ffaae8341@b9de7",
+      "displayName": "",
+      "id": "b9de7",
+      "name": "checkers.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "08ba9542-f4dd-4faa-ac3a-4d1ffaae8341@5ef28"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0c3eb": {
+      "importer": "gltf-material",
+      "uuid": "08ba9542-f4dd-4faa-ac3a-4d1ffaae8341@0c3eb",
+      "displayName": "",
+      "id": "0c3eb",
+      "name": "checkers.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0ee4f": {
+      "importer": "gltf-material",
+      "uuid": "08ba9542-f4dd-4faa-ac3a-4d1ffaae8341@0ee4f",
+      "displayName": "",
+      "id": "0ee4f",
+      "name": "_defaultMat.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63d5": {
+      "importer": "gltf-material",
+      "uuid": "08ba9542-f4dd-4faa-ac3a-4d1ffaae8341@d63d5",
+      "displayName": "",
+      "id": "d63d5",
+      "name": "grey.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "35ea4": {
+      "importer": "gltf-material",
+      "uuid": "08ba9542-f4dd-4faa-ac3a-4d1ffaae8341@35ea4",
+      "displayName": "",
+      "id": "35ea4",
+      "name": "road.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dd6d3": {
+      "importer": "gltf-scene",
+      "uuid": "08ba9542-f4dd-4faa-ac3a-4d1ffaae8341@dd6d3",
+      "displayName": "",
+      "id": "dd6d3",
+      "name": "flagCheckersSmall.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "checkers",
+        "uri": "08ba9542-f4dd-4faa-ac3a-4d1ffaae8341@5ef28"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "08ba9542-f4dd-4faa-ac3a-4d1ffaae8341@dd6d3",
+    "assetFinder": {
+      "meshes": [
+        "08ba9542-f4dd-4faa-ac3a-4d1ffaae8341@d130d"
+      ],
+      "skeletons": [],
+      "textures": [
+        "08ba9542-f4dd-4faa-ac3a-4d1ffaae8341@b9de7"
+      ],
+      "materials": [
+        "08ba9542-f4dd-4faa-ac3a-4d1ffaae8341@0c3eb",
+        "08ba9542-f4dd-4faa-ac3a-4d1ffaae8341@0ee4f",
+        "08ba9542-f4dd-4faa-ac3a-4d1ffaae8341@d63d5",
+        "08ba9542-f4dd-4faa-ac3a-4d1ffaae8341@35ea4"
+      ],
+      "scenes": [
+        "08ba9542-f4dd-4faa-ac3a-4d1ffaae8341@dd6d3"
+      ]
+    }
+  }
+}

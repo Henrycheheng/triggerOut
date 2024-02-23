@@ -1,0 +1,146 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "75eb6ca8-317a-4a67-a102-8e1592d3c1de",
+  "files": [],
+  "subMetas": {
+    "17464": {
+      "importer": "gltf-material",
+      "uuid": "75eb6ca8-317a-4a67-a102-8e1592d3c1de@17464",
+      "displayName": "",
+      "id": "17464",
+      "name": "Stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ad1ed": {
+      "importer": "gltf-mesh",
+      "uuid": "75eb6ca8-317a-4a67-a102-8e1592d3c1de@ad1ed",
+      "displayName": "",
+      "id": "ad1ed",
+      "name": "castle_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9e51f": {
+      "importer": "gltf-material",
+      "uuid": "75eb6ca8-317a-4a67-a102-8e1592d3c1de@9e51f",
+      "displayName": "",
+      "id": "9e51f",
+      "name": "StoneDark.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3fdbc": {
+      "importer": "gltf-material",
+      "uuid": "75eb6ca8-317a-4a67-a102-8e1592d3c1de@3fdbc",
+      "displayName": "",
+      "id": "3fdbc",
+      "name": "BrownDark.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1f97b": {
+      "importer": "gltf-material",
+      "uuid": "75eb6ca8-317a-4a67-a102-8e1592d3c1de@1f97b",
+      "displayName": "",
+      "id": "1f97b",
+      "name": "Brown.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "935df": {
+      "importer": "gltf-material",
+      "uuid": "75eb6ca8-317a-4a67-a102-8e1592d3c1de@935df",
+      "displayName": "",
+      "id": "935df",
+      "name": "White.material",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3cf4b": {
+      "importer": "gltf-scene",
+      "uuid": "75eb6ca8-317a-4a67-a102-8e1592d3c1de@3cf4b",
+      "displayName": "",
+      "id": "3cf4b",
+      "name": "castle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "75eb6ca8-317a-4a67-a102-8e1592d3c1de@3cf4b",
+    "assetFinder": {
+      "meshes": [
+        "75eb6ca8-317a-4a67-a102-8e1592d3c1de@ad1ed"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "75eb6ca8-317a-4a67-a102-8e1592d3c1de@17464",
+        "75eb6ca8-317a-4a67-a102-8e1592d3c1de@9e51f",
+        "75eb6ca8-317a-4a67-a102-8e1592d3c1de@3fdbc",
+        "75eb6ca8-317a-4a67-a102-8e1592d3c1de@1f97b",
+        "75eb6ca8-317a-4a67-a102-8e1592d3c1de@935df"
+      ],
+      "scenes": [
+        "75eb6ca8-317a-4a67-a102-8e1592d3c1de@3cf4b"
+      ]
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3551be94-2629-436f-b39d-04eef18966c1",
+  "files": [],
+  "subMetas": {
+    "17464": {
+      "importer": "gltf-material",
+      "uuid": "3551be94-2629-436f-b39d-04eef18966c1@17464",
+      "displayName": "",
+      "id": "17464",
+      "name": "Stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73a66": {
+      "importer": "gltf-mesh",
+      "uuid": "3551be94-2629-436f-b39d-04eef18966c1@73a66",
+      "displayName": "",
+      "id": "73a66",
+      "name": "wall_hexCornerB_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c2800": {
+      "importer": "gltf-scene",
+      "uuid": "3551be94-2629-436f-b39d-04eef18966c1@c2800",
+      "displayName": "",
+      "id": "c2800",
+      "name": "wall_hexCornerB.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "3551be94-2629-436f-b39d-04eef18966c1@c2800",
+    "assetFinder": {
+      "meshes": [
+        "3551be94-2629-436f-b39d-04eef18966c1@73a66"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "3551be94-2629-436f-b39d-04eef18966c1@17464"
+      ],
+      "scenes": [
+        "3551be94-2629-436f-b39d-04eef18966c1@c2800"
+      ]
+    }
+  }
+}

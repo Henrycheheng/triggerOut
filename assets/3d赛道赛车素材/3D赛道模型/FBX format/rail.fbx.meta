@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "7aed4e0c-3247-4278-b551-84091b1b7a34",
+  "files": [],
+  "subMetas": {
+    "b0783": {
+      "importer": "gltf-mesh",
+      "uuid": "7aed4e0c-3247-4278-b551-84091b1b7a34@b0783",
+      "displayName": "",
+      "id": "b0783",
+      "name": "rail.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63d5": {
+      "importer": "gltf-material",
+      "uuid": "7aed4e0c-3247-4278-b551-84091b1b7a34@d63d5",
+      "displayName": "",
+      "id": "d63d5",
+      "name": "grey.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "75d16": {
+      "importer": "gltf-scene",
+      "uuid": "7aed4e0c-3247-4278-b551-84091b1b7a34@75d16",
+      "displayName": "",
+      "id": "75d16",
+      "name": "rail.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "7aed4e0c-3247-4278-b551-84091b1b7a34@75d16",
+    "assetFinder": {
+      "meshes": [
+        "7aed4e0c-3247-4278-b551-84091b1b7a34@b0783"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "7aed4e0c-3247-4278-b551-84091b1b7a34@d63d5"
+      ],
+      "scenes": [
+        "7aed4e0c-3247-4278-b551-84091b1b7a34@75d16"
+      ]
+    }
+  }
+}

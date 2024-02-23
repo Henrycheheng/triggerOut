@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c90ad77d-5e47-4a89-b5d9-d8a2a987a397",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "c90ad77d-5e47-4a89-b5d9-d8a2a987a397@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ef5e1": {
+      "importer": "gltf-mesh",
+      "uuid": "c90ad77d-5e47-4a89-b5d9-d8a2a987a397@ef5e1",
+      "displayName": "",
+      "id": "ef5e1",
+      "name": "grass.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3022b": {
+      "importer": "gltf-scene",
+      "uuid": "c90ad77d-5e47-4a89-b5d9-d8a2a987a397@3022b",
+      "displayName": "",
+      "id": "3022b",
+      "name": "grass.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "c90ad77d-5e47-4a89-b5d9-d8a2a987a397@3022b",
+    "assetFinder": {
+      "meshes": [
+        "c90ad77d-5e47-4a89-b5d9-d8a2a987a397@ef5e1"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "c90ad77d-5e47-4a89-b5d9-d8a2a987a397@53398"
+      ],
+      "scenes": [
+        "c90ad77d-5e47-4a89-b5d9-d8a2a987a397@3022b"
+      ]
+    }
+  }
+}

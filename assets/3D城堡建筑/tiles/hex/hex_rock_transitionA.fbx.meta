@@ -1,0 +1,112 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "37b658d2-816e-4cb7-b9b2-44e27e5c3891",
+  "files": [],
+  "subMetas": {
+    "84c42": {
+      "importer": "gltf-mesh",
+      "uuid": "37b658d2-816e-4cb7-b9b2-44e27e5c3891@84c42",
+      "displayName": "",
+      "id": "84c42",
+      "name": "hex_rock_transitionA_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1f97b": {
+      "importer": "gltf-material",
+      "uuid": "37b658d2-816e-4cb7-b9b2-44e27e5c3891@1f97b",
+      "displayName": "",
+      "id": "1f97b",
+      "name": "Brown.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3fdbc": {
+      "importer": "gltf-material",
+      "uuid": "37b658d2-816e-4cb7-b9b2-44e27e5c3891@3fdbc",
+      "displayName": "",
+      "id": "3fdbc",
+      "name": "BrownDark.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9f269": {
+      "importer": "gltf-material",
+      "uuid": "37b658d2-816e-4cb7-b9b2-44e27e5c3891@9f269",
+      "displayName": "",
+      "id": "9f269",
+      "name": "Green.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "866bf": {
+      "importer": "gltf-scene",
+      "uuid": "37b658d2-816e-4cb7-b9b2-44e27e5c3891@866bf",
+      "displayName": "",
+      "id": "866bf",
+      "name": "hex_rock_transitionA.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "37b658d2-816e-4cb7-b9b2-44e27e5c3891@866bf",
+    "assetFinder": {
+      "meshes": [
+        "37b658d2-816e-4cb7-b9b2-44e27e5c3891@84c42"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "37b658d2-816e-4cb7-b9b2-44e27e5c3891@1f97b",
+        "37b658d2-816e-4cb7-b9b2-44e27e5c3891@3fdbc",
+        "37b658d2-816e-4cb7-b9b2-44e27e5c3891@9f269"
+      ],
+      "scenes": [
+        "37b658d2-816e-4cb7-b9b2-44e27e5c3891@866bf"
+      ]
+    }
+  }
+}

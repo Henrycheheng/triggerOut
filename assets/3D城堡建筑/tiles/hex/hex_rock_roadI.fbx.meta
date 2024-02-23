@@ -1,0 +1,95 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "55cffc4d-3b83-4908-93ea-22104198d046",
+  "files": [],
+  "subMetas": {
+    "3d001": {
+      "importer": "gltf-mesh",
+      "uuid": "55cffc4d-3b83-4908-93ea-22104198d046@3d001",
+      "displayName": "",
+      "id": "3d001",
+      "name": "hex_rock_roadI_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1f97b": {
+      "importer": "gltf-material",
+      "uuid": "55cffc4d-3b83-4908-93ea-22104198d046@1f97b",
+      "displayName": "",
+      "id": "1f97b",
+      "name": "Brown.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "00773": {
+      "importer": "gltf-material",
+      "uuid": "55cffc4d-3b83-4908-93ea-22104198d046@00773",
+      "displayName": "",
+      "id": "00773",
+      "name": "Beige.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f639a": {
+      "importer": "gltf-scene",
+      "uuid": "55cffc4d-3b83-4908-93ea-22104198d046@f639a",
+      "displayName": "",
+      "id": "f639a",
+      "name": "hex_rock_roadI.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "55cffc4d-3b83-4908-93ea-22104198d046@f639a",
+    "assetFinder": {
+      "meshes": [
+        "55cffc4d-3b83-4908-93ea-22104198d046@3d001"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "55cffc4d-3b83-4908-93ea-22104198d046@1f97b",
+        "55cffc4d-3b83-4908-93ea-22104198d046@00773"
+      ],
+      "scenes": [
+        "55cffc4d-3b83-4908-93ea-22104198d046@f639a"
+      ]
+    }
+  }
+}

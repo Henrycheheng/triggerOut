@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "5adccd59-2d1b-42b1-b1c0-28a08e253632",
+  "files": [],
+  "subMetas": {
+    "bbd92": {
+      "importer": "gltf-mesh",
+      "uuid": "5adccd59-2d1b-42b1-b1c0-28a08e253632@bbd92",
+      "displayName": "",
+      "id": "bbd92",
+      "name": "Cylinder.004.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9f269": {
+      "importer": "gltf-material",
+      "uuid": "5adccd59-2d1b-42b1-b1c0-28a08e253632@9f269",
+      "displayName": "",
+      "id": "9f269",
+      "name": "Green.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a4662": {
+      "importer": "gltf-scene",
+      "uuid": "5adccd59-2d1b-42b1-b1c0-28a08e253632@a4662",
+      "displayName": "",
+      "id": "a4662",
+      "name": "hex_forest.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "5adccd59-2d1b-42b1-b1c0-28a08e253632@a4662",
+    "assetFinder": {
+      "meshes": [
+        "5adccd59-2d1b-42b1-b1c0-28a08e253632@bbd92"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "5adccd59-2d1b-42b1-b1c0-28a08e253632@9f269"
+      ],
+      "scenes": [
+        "5adccd59-2d1b-42b1-b1c0-28a08e253632@a4662"
+      ]
+    }
+  }
+}

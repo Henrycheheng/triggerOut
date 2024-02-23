@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e0eb1738-e9e3-4db1-9360-52a0db563d7d",
+  "files": [],
+  "subMetas": {
+    "e9a58": {
+      "importer": "gltf-mesh",
+      "uuid": "e0eb1738-e9e3-4db1-9360-52a0db563d7d@e9a58",
+      "displayName": "",
+      "id": "e9a58",
+      "name": "barrierRed.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "92dfd": {
+      "importer": "gltf-material",
+      "uuid": "e0eb1738-e9e3-4db1-9360-52a0db563d7d@92dfd",
+      "displayName": "",
+      "id": "92dfd",
+      "name": "red.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "81a10": {
+      "importer": "gltf-scene",
+      "uuid": "e0eb1738-e9e3-4db1-9360-52a0db563d7d@81a10",
+      "displayName": "",
+      "id": "81a10",
+      "name": "barrierRed.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "e0eb1738-e9e3-4db1-9360-52a0db563d7d@81a10",
+    "assetFinder": {
+      "meshes": [
+        "e0eb1738-e9e3-4db1-9360-52a0db563d7d@e9a58"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "e0eb1738-e9e3-4db1-9360-52a0db563d7d@92dfd"
+      ],
+      "scenes": [
+        "e0eb1738-e9e3-4db1-9360-52a0db563d7d@81a10"
+      ]
+    }
+  }
+}

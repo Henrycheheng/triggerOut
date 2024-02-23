@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "dbee203e-aba6-4837-8f4a-f90c03944a01",
+  "files": [],
+  "subMetas": {
+    "17464": {
+      "importer": "gltf-material",
+      "uuid": "dbee203e-aba6-4837-8f4a-f90c03944a01@17464",
+      "displayName": "",
+      "id": "17464",
+      "name": "Stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7fb43": {
+      "importer": "gltf-mesh",
+      "uuid": "dbee203e-aba6-4837-8f4a-f90c03944a01@7fb43",
+      "displayName": "",
+      "id": "7fb43",
+      "name": "Cylinder.938.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d65f3": {
+      "importer": "gltf-scene",
+      "uuid": "dbee203e-aba6-4837-8f4a-f90c03944a01@d65f3",
+      "displayName": "",
+      "id": "d65f3",
+      "name": "mountain.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "dbee203e-aba6-4837-8f4a-f90c03944a01@d65f3",
+    "assetFinder": {
+      "meshes": [
+        "dbee203e-aba6-4837-8f4a-f90c03944a01@7fb43"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "dbee203e-aba6-4837-8f4a-f90c03944a01@17464"
+      ],
+      "scenes": [
+        "dbee203e-aba6-4837-8f4a-f90c03944a01@d65f3"
+      ]
+    }
+  }
+}

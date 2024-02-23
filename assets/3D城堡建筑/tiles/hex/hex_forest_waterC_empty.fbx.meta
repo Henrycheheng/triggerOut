@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "482953d9-b3d6-4b4a-97e0-d25bd760fdf4",
+  "files": [],
+  "subMetas": {
+    "d231e": {
+      "importer": "gltf-mesh",
+      "uuid": "482953d9-b3d6-4b4a-97e0-d25bd760fdf4@d231e",
+      "displayName": "",
+      "id": "d231e",
+      "name": "Cylinder.042.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9f269": {
+      "importer": "gltf-material",
+      "uuid": "482953d9-b3d6-4b4a-97e0-d25bd760fdf4@9f269",
+      "displayName": "",
+      "id": "9f269",
+      "name": "Green.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d8c02": {
+      "importer": "gltf-scene",
+      "uuid": "482953d9-b3d6-4b4a-97e0-d25bd760fdf4@d8c02",
+      "displayName": "",
+      "id": "d8c02",
+      "name": "hex_forest_waterC_empty.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "482953d9-b3d6-4b4a-97e0-d25bd760fdf4@d8c02",
+    "assetFinder": {
+      "meshes": [
+        "482953d9-b3d6-4b4a-97e0-d25bd760fdf4@d231e"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "482953d9-b3d6-4b4a-97e0-d25bd760fdf4@9f269"
+      ],
+      "scenes": [
+        "482953d9-b3d6-4b4a-97e0-d25bd760fdf4@d8c02"
+      ]
+    }
+  }
+}

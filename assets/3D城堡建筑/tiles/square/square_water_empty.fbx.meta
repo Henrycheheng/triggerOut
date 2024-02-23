@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e59969a7-5b40-4ba5-8496-517eee501701",
+  "files": [],
+  "subMetas": {
+    "57810": {
+      "importer": "gltf-scene",
+      "uuid": "e59969a7-5b40-4ba5-8496-517eee501701@57810",
+      "displayName": "",
+      "id": "57810",
+      "name": "square_water_empty.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "728fa": {
+      "importer": "gltf-mesh",
+      "uuid": "e59969a7-5b40-4ba5-8496-517eee501701@728fa",
+      "displayName": "",
+      "id": "728fa",
+      "name": "Cube.786.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dfbe1": {
+      "importer": "gltf-material",
+      "uuid": "e59969a7-5b40-4ba5-8496-517eee501701@dfbe1",
+      "displayName": "",
+      "id": "dfbe1",
+      "name": "Water.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "e59969a7-5b40-4ba5-8496-517eee501701@57810",
+    "assetFinder": {
+      "meshes": [
+        "e59969a7-5b40-4ba5-8496-517eee501701@728fa"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "e59969a7-5b40-4ba5-8496-517eee501701@dfbe1"
+      ],
+      "scenes": [
+        "e59969a7-5b40-4ba5-8496-517eee501701@57810"
+      ]
+    }
+  }
+}

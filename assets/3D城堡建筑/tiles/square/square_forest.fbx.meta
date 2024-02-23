@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "da4b044a-d5dc-4e88-aa60-30156b9fbeb0",
+  "files": [],
+  "subMetas": {
+    "cb299": {
+      "importer": "gltf-mesh",
+      "uuid": "da4b044a-d5dc-4e88-aa60-30156b9fbeb0@cb299",
+      "displayName": "",
+      "id": "cb299",
+      "name": "Cube.698.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9f269": {
+      "importer": "gltf-material",
+      "uuid": "da4b044a-d5dc-4e88-aa60-30156b9fbeb0@9f269",
+      "displayName": "",
+      "id": "9f269",
+      "name": "Green.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d81c1": {
+      "importer": "gltf-scene",
+      "uuid": "da4b044a-d5dc-4e88-aa60-30156b9fbeb0@d81c1",
+      "displayName": "",
+      "id": "d81c1",
+      "name": "square_forest.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "da4b044a-d5dc-4e88-aa60-30156b9fbeb0@d81c1",
+    "assetFinder": {
+      "meshes": [
+        "da4b044a-d5dc-4e88-aa60-30156b9fbeb0@cb299"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "da4b044a-d5dc-4e88-aa60-30156b9fbeb0@9f269"
+      ],
+      "scenes": [
+        "da4b044a-d5dc-4e88-aa60-30156b9fbeb0@d81c1"
+      ]
+    }
+  }
+}

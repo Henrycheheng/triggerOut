@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a27aa48f-cc95-4e2c-b0b3-ad9bb1a47d2c",
+  "files": [],
+  "subMetas": {
+    "89e38": {
+      "importer": "gltf-mesh",
+      "uuid": "a27aa48f-cc95-4e2c-b0b3-ad9bb1a47d2c@89e38",
+      "displayName": "",
+      "id": "89e38",
+      "name": "Cylinder.841.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1f97b": {
+      "importer": "gltf-material",
+      "uuid": "a27aa48f-cc95-4e2c-b0b3-ad9bb1a47d2c@1f97b",
+      "displayName": "",
+      "id": "1f97b",
+      "name": "Brown.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "605f2": {
+      "importer": "gltf-scene",
+      "uuid": "a27aa48f-cc95-4e2c-b0b3-ad9bb1a47d2c@605f2",
+      "displayName": "",
+      "id": "605f2",
+      "name": "hex_rock_waterC_empty.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "a27aa48f-cc95-4e2c-b0b3-ad9bb1a47d2c@605f2",
+    "assetFinder": {
+      "meshes": [
+        "a27aa48f-cc95-4e2c-b0b3-ad9bb1a47d2c@89e38"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "a27aa48f-cc95-4e2c-b0b3-ad9bb1a47d2c@1f97b"
+      ],
+      "scenes": [
+        "a27aa48f-cc95-4e2c-b0b3-ad9bb1a47d2c@605f2"
+      ]
+    }
+  }
+}

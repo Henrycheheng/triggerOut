@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b6bf5845-2788-4a0e-a982-be85d2de63e6",
+  "files": [],
+  "subMetas": {
+    "de26c": {
+      "importer": "gltf-mesh",
+      "uuid": "b6bf5845-2788-4a0e-a982-be85d2de63e6@de26c",
+      "displayName": "",
+      "id": "de26c",
+      "name": "Cube.740.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "00773": {
+      "importer": "gltf-material",
+      "uuid": "b6bf5845-2788-4a0e-a982-be85d2de63e6@00773",
+      "displayName": "",
+      "id": "00773",
+      "name": "Beige.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d32b8": {
+      "importer": "gltf-scene",
+      "uuid": "b6bf5845-2788-4a0e-a982-be85d2de63e6@d32b8",
+      "displayName": "",
+      "id": "d32b8",
+      "name": "square_sand.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "b6bf5845-2788-4a0e-a982-be85d2de63e6@d32b8",
+    "assetFinder": {
+      "meshes": [
+        "b6bf5845-2788-4a0e-a982-be85d2de63e6@de26c"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "b6bf5845-2788-4a0e-a982-be85d2de63e6@00773"
+      ],
+      "scenes": [
+        "b6bf5845-2788-4a0e-a982-be85d2de63e6@d32b8"
+      ]
+    }
+  }
+}

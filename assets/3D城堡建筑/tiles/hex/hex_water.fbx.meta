@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b20f232a-2bd8-47dd-9c2c-65413605cf6d",
+  "files": [],
+  "subMetas": {
+    "420b8": {
+      "importer": "gltf-mesh",
+      "uuid": "b20f232a-2bd8-47dd-9c2c-65413605cf6d@420b8",
+      "displayName": "",
+      "id": "420b8",
+      "name": "Cylinder.929.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dfbe1": {
+      "importer": "gltf-material",
+      "uuid": "b20f232a-2bd8-47dd-9c2c-65413605cf6d@dfbe1",
+      "displayName": "",
+      "id": "dfbe1",
+      "name": "Water.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "09ad3": {
+      "importer": "gltf-scene",
+      "uuid": "b20f232a-2bd8-47dd-9c2c-65413605cf6d@09ad3",
+      "displayName": "",
+      "id": "09ad3",
+      "name": "hex_water.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "b20f232a-2bd8-47dd-9c2c-65413605cf6d@09ad3",
+    "assetFinder": {
+      "meshes": [
+        "b20f232a-2bd8-47dd-9c2c-65413605cf6d@420b8"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "b20f232a-2bd8-47dd-9c2c-65413605cf6d@dfbe1"
+      ],
+      "scenes": [
+        "b20f232a-2bd8-47dd-9c2c-65413605cf6d@09ad3"
+      ]
+    }
+  }
+}

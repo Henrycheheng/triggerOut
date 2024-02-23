@@ -1,0 +1,164 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3448a669-2e58-4cb8-ac79-f114a201f770",
+  "files": [],
+  "subMetas": {
+    "17464": {
+      "importer": "gltf-material",
+      "uuid": "3448a669-2e58-4cb8-ac79-f114a201f770@17464",
+      "displayName": "",
+      "id": "17464",
+      "name": "Stone.material",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "446db": {
+      "importer": "gltf-mesh",
+      "uuid": "3448a669-2e58-4cb8-ac79-f114a201f770@446db",
+      "displayName": "",
+      "id": "446db",
+      "name": "mill_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9afc3": {
+      "importer": "gltf-mesh",
+      "uuid": "3448a669-2e58-4cb8-ac79-f114a201f770@9afc3",
+      "displayName": "",
+      "id": "9afc3",
+      "name": "mill_blades_Material0.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1f97b": {
+      "importer": "gltf-material",
+      "uuid": "3448a669-2e58-4cb8-ac79-f114a201f770@1f97b",
+      "displayName": "",
+      "id": "1f97b",
+      "name": "Brown.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "00773": {
+      "importer": "gltf-material",
+      "uuid": "3448a669-2e58-4cb8-ac79-f114a201f770@00773",
+      "displayName": "",
+      "id": "00773",
+      "name": "Beige.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3fdbc": {
+      "importer": "gltf-material",
+      "uuid": "3448a669-2e58-4cb8-ac79-f114a201f770@3fdbc",
+      "displayName": "",
+      "id": "3fdbc",
+      "name": "BrownDark.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "935df": {
+      "importer": "gltf-material",
+      "uuid": "3448a669-2e58-4cb8-ac79-f114a201f770@935df",
+      "displayName": "",
+      "id": "935df",
+      "name": "White.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "89a32": {
+      "importer": "gltf-scene",
+      "uuid": "3448a669-2e58-4cb8-ac79-f114a201f770@89a32",
+      "displayName": "",
+      "id": "89a32",
+      "name": "mill.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "3448a669-2e58-4cb8-ac79-f114a201f770@89a32",
+    "assetFinder": {
+      "meshes": [
+        "3448a669-2e58-4cb8-ac79-f114a201f770@446db",
+        "3448a669-2e58-4cb8-ac79-f114a201f770@9afc3"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "3448a669-2e58-4cb8-ac79-f114a201f770@1f97b",
+        "3448a669-2e58-4cb8-ac79-f114a201f770@00773",
+        "3448a669-2e58-4cb8-ac79-f114a201f770@3fdbc",
+        "3448a669-2e58-4cb8-ac79-f114a201f770@935df",
+        "3448a669-2e58-4cb8-ac79-f114a201f770@17464"
+      ],
+      "scenes": [
+        "3448a669-2e58-4cb8-ac79-f114a201f770@89a32"
+      ]
+    }
+  }
+}

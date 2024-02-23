@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9a3c7530-41b9-4e67-add6-5d228ddbedaf",
+  "files": [],
+  "subMetas": {
+    "17464": {
+      "importer": "gltf-material",
+      "uuid": "9a3c7530-41b9-4e67-add6-5d228ddbedaf@17464",
+      "displayName": "",
+      "id": "17464",
+      "name": "Stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bc948": {
+      "importer": "gltf-mesh",
+      "uuid": "9a3c7530-41b9-4e67-add6-5d228ddbedaf@bc948",
+      "displayName": "",
+      "id": "bc948",
+      "name": "Cylinder.931.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c8923": {
+      "importer": "gltf-scene",
+      "uuid": "9a3c7530-41b9-4e67-add6-5d228ddbedaf@c8923",
+      "displayName": "",
+      "id": "c8923",
+      "name": "bridge.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "9a3c7530-41b9-4e67-add6-5d228ddbedaf@c8923",
+    "assetFinder": {
+      "meshes": [
+        "9a3c7530-41b9-4e67-add6-5d228ddbedaf@bc948"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "9a3c7530-41b9-4e67-add6-5d228ddbedaf@17464"
+      ],
+      "scenes": [
+        "9a3c7530-41b9-4e67-add6-5d228ddbedaf@c8923"
+      ]
+    }
+  }
+}

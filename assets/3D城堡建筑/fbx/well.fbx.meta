@@ -1,0 +1,163 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a3d589bc-afb3-475a-bebe-ae4f0deaad3e",
+  "files": [],
+  "subMetas": {
+    "17464": {
+      "importer": "gltf-material",
+      "uuid": "a3d589bc-afb3-475a-bebe-ae4f0deaad3e@17464",
+      "displayName": "",
+      "id": "17464",
+      "name": "Stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "572e9": {
+      "importer": "gltf-mesh",
+      "uuid": "a3d589bc-afb3-475a-bebe-ae4f0deaad3e@572e9",
+      "displayName": "",
+      "id": "572e9",
+      "name": "well_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9e51f": {
+      "importer": "gltf-material",
+      "uuid": "a3d589bc-afb3-475a-bebe-ae4f0deaad3e@9e51f",
+      "displayName": "",
+      "id": "9e51f",
+      "name": "StoneDark.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3fdbc": {
+      "importer": "gltf-material",
+      "uuid": "a3d589bc-afb3-475a-bebe-ae4f0deaad3e@3fdbc",
+      "displayName": "",
+      "id": "3fdbc",
+      "name": "BrownDark.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1f97b": {
+      "importer": "gltf-material",
+      "uuid": "a3d589bc-afb3-475a-bebe-ae4f0deaad3e@1f97b",
+      "displayName": "",
+      "id": "1f97b",
+      "name": "Brown.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dfbe1": {
+      "importer": "gltf-material",
+      "uuid": "a3d589bc-afb3-475a-bebe-ae4f0deaad3e@dfbe1",
+      "displayName": "",
+      "id": "dfbe1",
+      "name": "Water.material",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "00773": {
+      "importer": "gltf-material",
+      "uuid": "a3d589bc-afb3-475a-bebe-ae4f0deaad3e@00773",
+      "displayName": "",
+      "id": "00773",
+      "name": "Beige.material",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "efa39": {
+      "importer": "gltf-scene",
+      "uuid": "a3d589bc-afb3-475a-bebe-ae4f0deaad3e@efa39",
+      "displayName": "",
+      "id": "efa39",
+      "name": "well.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "a3d589bc-afb3-475a-bebe-ae4f0deaad3e@efa39",
+    "assetFinder": {
+      "meshes": [
+        "a3d589bc-afb3-475a-bebe-ae4f0deaad3e@572e9"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "a3d589bc-afb3-475a-bebe-ae4f0deaad3e@17464",
+        "a3d589bc-afb3-475a-bebe-ae4f0deaad3e@9e51f",
+        "a3d589bc-afb3-475a-bebe-ae4f0deaad3e@3fdbc",
+        "a3d589bc-afb3-475a-bebe-ae4f0deaad3e@1f97b",
+        "a3d589bc-afb3-475a-bebe-ae4f0deaad3e@dfbe1",
+        "a3d589bc-afb3-475a-bebe-ae4f0deaad3e@00773"
+      ],
+      "scenes": [
+        "a3d589bc-afb3-475a-bebe-ae4f0deaad3e@efa39"
+      ]
+    }
+  }
+}

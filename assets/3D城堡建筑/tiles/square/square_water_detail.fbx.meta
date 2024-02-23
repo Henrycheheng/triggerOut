@@ -1,0 +1,95 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e447c411-bc21-4402-96ad-6e909ef33e8d",
+  "files": [],
+  "subMetas": {
+    "a5673": {
+      "importer": "gltf-mesh",
+      "uuid": "e447c411-bc21-4402-96ad-6e909ef33e8d@a5673",
+      "displayName": "",
+      "id": "a5673",
+      "name": "square_water_detail_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3fdbc": {
+      "importer": "gltf-material",
+      "uuid": "e447c411-bc21-4402-96ad-6e909ef33e8d@3fdbc",
+      "displayName": "",
+      "id": "3fdbc",
+      "name": "BrownDark.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dfbe1": {
+      "importer": "gltf-material",
+      "uuid": "e447c411-bc21-4402-96ad-6e909ef33e8d@dfbe1",
+      "displayName": "",
+      "id": "dfbe1",
+      "name": "Water.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "07421": {
+      "importer": "gltf-scene",
+      "uuid": "e447c411-bc21-4402-96ad-6e909ef33e8d@07421",
+      "displayName": "",
+      "id": "07421",
+      "name": "square_water_detail.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "e447c411-bc21-4402-96ad-6e909ef33e8d@07421",
+    "assetFinder": {
+      "meshes": [
+        "e447c411-bc21-4402-96ad-6e909ef33e8d@a5673"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "e447c411-bc21-4402-96ad-6e909ef33e8d@3fdbc",
+        "e447c411-bc21-4402-96ad-6e909ef33e8d@dfbe1"
+      ],
+      "scenes": [
+        "e447c411-bc21-4402-96ad-6e909ef33e8d@07421"
+      ]
+    }
+  }
+}

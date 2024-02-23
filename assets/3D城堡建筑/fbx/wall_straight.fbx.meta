@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "28cf17cf-89a3-452b-ad7e-a5e6e8e92bb4",
+  "files": [],
+  "subMetas": {
+    "17464": {
+      "importer": "gltf-material",
+      "uuid": "28cf17cf-89a3-452b-ad7e-a5e6e8e92bb4@17464",
+      "displayName": "",
+      "id": "17464",
+      "name": "Stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "162a2": {
+      "importer": "gltf-mesh",
+      "uuid": "28cf17cf-89a3-452b-ad7e-a5e6e8e92bb4@162a2",
+      "displayName": "",
+      "id": "162a2",
+      "name": "Cube.803.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f7c6e": {
+      "importer": "gltf-scene",
+      "uuid": "28cf17cf-89a3-452b-ad7e-a5e6e8e92bb4@f7c6e",
+      "displayName": "",
+      "id": "f7c6e",
+      "name": "wall_straight.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "28cf17cf-89a3-452b-ad7e-a5e6e8e92bb4@f7c6e",
+    "assetFinder": {
+      "meshes": [
+        "28cf17cf-89a3-452b-ad7e-a5e6e8e92bb4@162a2"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "28cf17cf-89a3-452b-ad7e-a5e6e8e92bb4@17464"
+      ],
+      "scenes": [
+        "28cf17cf-89a3-452b-ad7e-a5e6e8e92bb4@f7c6e"
+      ]
+    }
+  }
+}

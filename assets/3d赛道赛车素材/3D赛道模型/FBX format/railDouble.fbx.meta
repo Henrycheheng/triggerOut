@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "75df9e80-f2ad-44a6-8b74-2ca7e194012b",
+  "files": [],
+  "subMetas": {
+    "9cba7": {
+      "importer": "gltf-mesh",
+      "uuid": "75df9e80-f2ad-44a6-8b74-2ca7e194012b@9cba7",
+      "displayName": "",
+      "id": "9cba7",
+      "name": "railDouble.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63d5": {
+      "importer": "gltf-material",
+      "uuid": "75df9e80-f2ad-44a6-8b74-2ca7e194012b@d63d5",
+      "displayName": "",
+      "id": "d63d5",
+      "name": "grey.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d2239": {
+      "importer": "gltf-scene",
+      "uuid": "75df9e80-f2ad-44a6-8b74-2ca7e194012b@d2239",
+      "displayName": "",
+      "id": "d2239",
+      "name": "railDouble.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "75df9e80-f2ad-44a6-8b74-2ca7e194012b@d2239",
+    "assetFinder": {
+      "meshes": [
+        "75df9e80-f2ad-44a6-8b74-2ca7e194012b@9cba7"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "75df9e80-f2ad-44a6-8b74-2ca7e194012b@d63d5"
+      ],
+      "scenes": [
+        "75df9e80-f2ad-44a6-8b74-2ca7e194012b@d2239"
+      ]
+    }
+  }
+}

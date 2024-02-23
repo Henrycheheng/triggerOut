@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "64e061bc-c2f6-4496-bc93-ae98cfd53477",
+  "files": [],
+  "subMetas": {
+    "7b254": {
+      "importer": "gltf-mesh",
+      "uuid": "64e061bc-c2f6-4496-bc93-ae98cfd53477@7b254",
+      "displayName": "",
+      "id": "7b254",
+      "name": "barrierWhite.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63d5": {
+      "importer": "gltf-material",
+      "uuid": "64e061bc-c2f6-4496-bc93-ae98cfd53477@d63d5",
+      "displayName": "",
+      "id": "d63d5",
+      "name": "grey.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b6875": {
+      "importer": "gltf-scene",
+      "uuid": "64e061bc-c2f6-4496-bc93-ae98cfd53477@b6875",
+      "displayName": "",
+      "id": "b6875",
+      "name": "barrierWhite.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "64e061bc-c2f6-4496-bc93-ae98cfd53477@b6875",
+    "assetFinder": {
+      "meshes": [
+        "64e061bc-c2f6-4496-bc93-ae98cfd53477@7b254"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "64e061bc-c2f6-4496-bc93-ae98cfd53477@d63d5"
+      ],
+      "scenes": [
+        "64e061bc-c2f6-4496-bc93-ae98cfd53477@b6875"
+      ]
+    }
+  }
+}

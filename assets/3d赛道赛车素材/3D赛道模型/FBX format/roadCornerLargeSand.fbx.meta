@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "89bfcf2e-ac19-429c-837b-94668dee0fcd",
+  "files": [],
+  "subMetas": {
+    "35058": {
+      "importer": "gltf-scene",
+      "uuid": "89bfcf2e-ac19-429c-837b-94668dee0fcd@35058",
+      "displayName": "",
+      "id": "35058",
+      "name": "roadCornerLargeSand.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e301d": {
+      "importer": "gltf-mesh",
+      "uuid": "89bfcf2e-ac19-429c-837b-94668dee0fcd@e301d",
+      "displayName": "",
+      "id": "e301d",
+      "name": "roadCornerLargeSand.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5f31f": {
+      "importer": "gltf-material",
+      "uuid": "89bfcf2e-ac19-429c-837b-94668dee0fcd@5f31f",
+      "displayName": "",
+      "id": "5f31f",
+      "name": "sand.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "89bfcf2e-ac19-429c-837b-94668dee0fcd@35058",
+    "assetFinder": {
+      "meshes": [
+        "89bfcf2e-ac19-429c-837b-94668dee0fcd@e301d"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "89bfcf2e-ac19-429c-837b-94668dee0fcd@5f31f"
+      ],
+      "scenes": [
+        "89bfcf2e-ac19-429c-837b-94668dee0fcd@35058"
+      ]
+    }
+  }
+}
